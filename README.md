@@ -18,7 +18,7 @@ This project consist of three phases
          The dataset contain 10841 rows and 13 variables namely, App, Category, Rating,	Reviews, Size, Installs, Type, Price, Content 
           Rating, Genres, Last Updated, Current Ver, and Android Ver. The dataset is known to have outliers and missing values.
              
-2. Pre-Processing:
+2. Pre-Processing: 
 
     2.1 Identifying missing values:
     
